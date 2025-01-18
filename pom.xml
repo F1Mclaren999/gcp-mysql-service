@@ -50,6 +50,7 @@ limitations under the License.
     <dependency>
       <groupId>com.google.cloud</groupId>
       <artifactId>spring-cloud-gcp-starter-sql-mysql</artifactId>
+      <version>5.8.0</version>
     </dependency>
 
     <dependency>
